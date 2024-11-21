@@ -2,7 +2,7 @@
 
 A desktop application built with Python and Tkinter that provides real-time language translation using OpenAI's GPT-3.5 API. The application offers a clean, user-friendly interface for translating text between multiple languages.
 
-![Translation Tool Interface](https://your-screenshot-url.png)
+![image](https://github.com/user-attachments/assets/92bbf56c-75d0-4c99-9182-e570aacd0fcf)
 
 ## Features
 
